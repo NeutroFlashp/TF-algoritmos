@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\RICARD0\OneDrive\Escritorio\Plantillas Progra 2\Trabajo Final\Coso\ListaHamburguesa.h(104,1): warning C4620: no se encontró ninguna forma postfija de 'operator ++' para el tipo 'Hamburguesa::Iterador'; se utiliza la forma de prefijo
+C:\Users\RICARD0\OneDrive\Escritorio\Plantillas Progra 2\Trabajo Final\Coso\ListaHamburguesa.h(13): message : vea la declaración de 'Hamburguesa::Iterador'
+C:\Users\RICARD0\OneDrive\Escritorio\Plantillas Progra 2\Trabajo Final\Coso\ListaHamburguesa.h(106,1): warning C4620: no se encontró ninguna forma postfija de 'operator ++' para el tipo 'Hamburguesa::Iterador'; se utiliza la forma de prefijo
+C:\Users\RICARD0\OneDrive\Escritorio\Plantillas Progra 2\Trabajo Final\Coso\ListaHamburguesa.h(13): message : vea la declaración de 'Hamburguesa::Iterador'
+C:\Users\RICARD0\OneDrive\Escritorio\Plantillas Progra 2\Trabajo Final\Coso\ListaBroaster.h(102,1): warning C4620: no se encontró ninguna forma postfija de 'operator ++' para el tipo 'Broaster::Iterador'; se utiliza la forma de prefijo
+C:\Users\RICARD0\OneDrive\Escritorio\Plantillas Progra 2\Trabajo Final\Coso\ListaBroaster.h(13): message : vea la declaración de 'Broaster::Iterador'
+C:\Users\RICARD0\OneDrive\Escritorio\Plantillas Progra 2\Trabajo Final\Coso\ListaBroaster.h(104,1): warning C4620: no se encontró ninguna forma postfija de 'operator ++' para el tipo 'Broaster::Iterador'; se utiliza la forma de prefijo
+C:\Users\RICARD0\OneDrive\Escritorio\Plantillas Progra 2\Trabajo Final\Coso\ListaBroaster.h(13): message : vea la declaración de 'Broaster::Iterador'
+C:\Users\RICARD0\OneDrive\Escritorio\Plantillas Progra 2\Trabajo Final\Coso\GenerarHamburguesa.h(7,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\RICARD0\OneDrive\Escritorio\Plantillas Progra 2\Trabajo Final\Coso\GenerarBroaster.h(7,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\RICARD0\OneDrive\Escritorio\Plantillas Progra 2\Trabajo Final\Coso\main.cpp(75,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\RICARD0\OneDrive\Escritorio\Plantillas Progra 2\Trabajo Final\Coso\main.cpp(166,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\RICARD0\OneDrive\Escritorio\Plantillas Progra 2\Trabajo Final\Coso\main.cpp(210,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\RICARD0\OneDrive\Escritorio\Plantillas Progra 2\Trabajo Final\Coso\main.cpp(253,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\RICARD0\OneDrive\Escritorio\Plantillas Progra 2\Trabajo Final\Coso\main.cpp(296,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\RICARD0\OneDrive\Escritorio\Plantillas Progra 2\Trabajo Final\Coso\main.cpp(339,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\RICARD0\OneDrive\Escritorio\Plantillas Progra 2\Trabajo Final\Coso\main.cpp(381,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\RICARD0\OneDrive\Escritorio\Plantillas Progra 2\Trabajo Final\Coso\main.cpp(424,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  main.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Coso.vcxproj -> C:\Users\RICARD0\OneDrive\Escritorio\Plantillas Progra 2\Trabajo Final\x64\Debug\Coso.exe

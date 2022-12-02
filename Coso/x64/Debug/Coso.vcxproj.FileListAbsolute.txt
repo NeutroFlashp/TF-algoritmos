@@ -1,0 +1,6 @@
+C:\Users\saman\source\repos\Coso\Coso\x64\Debug\Coso.vcxproj.AssemblyReference.cache
+C:\Users\saman\source\repos\Coso\Coso\x64\Debug\Coso.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\RICARD0\OneDrive\Escritorio\Plantillas Progra 2\Coso\Coso\x64\Debug\Coso.vcxproj.AssemblyReference.cache
+C:\Users\RICARD0\OneDrive\Escritorio\Plantillas Progra 2\Coso\Coso\x64\Debug\Coso.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\RICARD0\OneDrive\Escritorio\Plantillas Progra 2\Trabajo Final\Coso\x64\Debug\Coso.vcxproj.AssemblyReference.cache
+C:\Users\RICARD0\OneDrive\Escritorio\Plantillas Progra 2\Trabajo Final\Coso\x64\Debug\Coso.vcxproj.SuggestedBindingRedirects.cache
